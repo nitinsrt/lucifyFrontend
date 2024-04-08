@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Encode Sans Expanded SB";
+  src: url("./fonts/EncodeSansExpanded-SemiBold.ttf") format("truetype");
+  /* Add other font properties if needed */
+}
+
+@font-face {
+  font-family: "Encode Sans Expanded M";
+  src: url("./fonts/EncodeSansExpanded-Medium.ttf") format("truetype");
+  /* Add other font properties if needed */
+}
+
+@font-face {
+    font-family: "Montserrat";
+    src: url("./fonts/Montserrat-VariableFont_wght.ttf") format("truetype");
+    /* Add other font properties if needed */
+}
